@@ -102,6 +102,7 @@ class Program
     {
         while (true)
         {
+            Console.OutputEncoding = System.Text.Encoding.Default;
             Console.WriteLine("Оберіть опцію:");
             Console.WriteLine("1. Додати книгу");
             Console.WriteLine("2. Видалити книгу");

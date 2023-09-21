@@ -5,3 +5,10 @@ E:\proje\ConsoleApp1\ConsoleApp1\bin\Debug\Class Book.exe
 E:\proje\ConsoleApp1\ConsoleApp1\bin\Debug\Class Book.pdb
 E:\proje\ConsoleApp1\ConsoleApp1\obj\Debug\Class Book.exe
 E:\proje\ConsoleApp1\ConsoleApp1\obj\Debug\Class Book.pdb
+E:\github\oop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\github\oop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\github\oop\ConsoleApp1\ConsoleApp1\obj\Debug\Class Book.exe
+E:\github\oop\ConsoleApp1\ConsoleApp1\obj\Debug\Class Book.pdb
+E:\github\oop\ConsoleApp1\ConsoleApp1\bin\Debug\Class Book.exe.config
+E:\github\oop\ConsoleApp1\ConsoleApp1\bin\Debug\Class Book.exe
+E:\github\oop\ConsoleApp1\ConsoleApp1\bin\Debug\Class Book.pdb
