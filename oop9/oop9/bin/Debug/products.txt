@@ -1,0 +1,3 @@
+Phone,500,2
+Shirt,30,3
+Book,15,5

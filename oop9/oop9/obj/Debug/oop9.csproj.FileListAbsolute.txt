@@ -1,0 +1,7 @@
+E:\projcet\oop9\oop9\bin\Debug\oop9.exe.config
+E:\projcet\oop9\oop9\bin\Debug\oop9.exe
+E:\projcet\oop9\oop9\bin\Debug\oop9.pdb
+E:\projcet\oop9\oop9\obj\Debug\oop9.csproj.AssemblyReference.cache
+E:\projcet\oop9\oop9\obj\Debug\oop9.csproj.CoreCompileInputs.cache
+E:\projcet\oop9\oop9\obj\Debug\oop9.exe
+E:\projcet\oop9\oop9\obj\Debug\oop9.pdb
