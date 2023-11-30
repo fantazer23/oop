@@ -1,0 +1,7 @@
+E:\projcet\oop11\oop11\bin\Debug\oop11.exe.config
+E:\projcet\oop11\oop11\bin\Debug\oop11.exe
+E:\projcet\oop11\oop11\bin\Debug\oop11.pdb
+E:\projcet\oop11\oop11\obj\Debug\oop11.csproj.AssemblyReference.cache
+E:\projcet\oop11\oop11\obj\Debug\oop11.csproj.CoreCompileInputs.cache
+E:\projcet\oop11\oop11\obj\Debug\oop11.exe
+E:\projcet\oop11\oop11\obj\Debug\oop11.pdb
